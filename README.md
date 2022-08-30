@@ -1,6 +1,6 @@
 # Budgie Backgrounds
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/BuddiesOfBudgie/budgie-desktop-view)](https://github.com/BuddiesOfBudgie/budgie-desktop-view/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/BuddiesOfBudgie/budgie-backgrounds)](https://github.com/BuddiesOfBudgie/budgie-backgrounds/releases)
 [![Chat with us on Matrix](https://img.shields.io/badge/chat-on%20Matrix-%230098D4)](https://matrix.to/#/#buddies-of-budgie:matrix.org)
 
 [![](https://opencollective.com/buddies-of-budgie/tiers/backer.svg?avatarHeight=96)](https://opencollective.com/buddies-of-budgie)
