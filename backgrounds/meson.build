@@ -1,4 +1,6 @@
-backgrounds = []
+backgrounds = [
+    'temp.jpg',
+]
 
 backgrounds_dir = join_paths(path_datadir, 'backgrounds', 'budgie')
 
