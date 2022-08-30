@@ -1,7 +1,22 @@
 backgrounds = [
     'temp.jpg',
+    'temp2.png',
 ]
 
 backgrounds_dir = join_paths(path_datadir, 'backgrounds', 'budgie')
 
-install_data(backgrounds, install_dir: backgrounds_dir)
+mogrify = find_program('mogrify')
+jhead = find_program('jhead')
+
+script = find_program(join_paths(meson.source_root(), 'scripts', 'optimizeImage.sh'))
+
+optimized_background_targets = []
+foreach background : backgrounds
+    optimized_background_targets += custom_target(background,
+        input: background,
+        output: '@BASENAME@.jpg',
+        command: [script, '@INPUT@', '@OUTPUT@'],
+        install: true,
+        install_dir: backgrounds_dir
+    )
+endforeach
