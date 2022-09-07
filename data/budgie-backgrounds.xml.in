@@ -2,16 +2,24 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Temp</name>
-    <filename>@prefix@/share/backgrounds/budgie/temp.jpg</filename>
+    <name>Earth from Apollo 11</name>
+    <filename>@prefix@/share/backgrounds/budgie/apollo-11-earth.jpg</filename>
     <options>zoom</options>
-    <pcolor>#FFFFFF</pcolor>
-    <scolor>#FFFFFF</scolor>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Temp2</name>
-    <filename>@prefix@/share/backgrounds/budgie/temp2.jpg</filename>
+    <name>Aurora Australis</name>
+    <filename>@prefix@/share/backgrounds/budgie/aurora-australis.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Lake Sherburne</name>
+    <filename>@prefix@/share/backgrounds/budgie/lake-sherburne.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
