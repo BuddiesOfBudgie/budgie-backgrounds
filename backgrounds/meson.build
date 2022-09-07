@@ -1,6 +1,6 @@
 backgrounds = [
     'temp.jpg',
-    'temp2.png'
+    'temp2.png',
     'apollo-11-earth.jpg',
 ]
 

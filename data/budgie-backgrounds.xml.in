@@ -18,7 +18,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>apollo-11-earth.jpg</name>
+    <name>Earth from Apollo 11</name>
     <filename>@prefix@/share/backgrounds/budgie/apollo-11-earth.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
