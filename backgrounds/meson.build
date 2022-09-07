@@ -2,6 +2,7 @@ backgrounds = [
     'temp.jpg',
     'temp2.png',
     'aurora-australis.jpg',
+    'lake-sherburne.jpg',
 ]
 
 backgrounds_dir = join_paths(path_datadir, 'backgrounds', 'budgie')
