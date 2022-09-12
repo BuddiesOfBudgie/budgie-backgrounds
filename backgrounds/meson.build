@@ -3,6 +3,7 @@ backgrounds = [
     'aurora-australis.jpg',
     'lake-sherburne.jpg',
     'saturnian-profile.jpg',
+    'ufo-galaxy.jpg',
 ]
 
 backgrounds_dir = join_paths(path_datadir, 'backgrounds', 'budgie')
