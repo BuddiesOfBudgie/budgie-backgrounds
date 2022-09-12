@@ -1,6 +1,5 @@
 backgrounds = [
     'apollo-11-earth.jpg',
-    'aurora-australis.jpg',
     'lake-sherburne.jpg',
     'saturnian-profile.jpg',
     'ufo-galaxy.jpg',
