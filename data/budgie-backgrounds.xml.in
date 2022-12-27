@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
-  <wallpaper deleted="false">
-    <name>Earth from Apollo 11</name>
-    <filename>@prefix@/share/backgrounds/budgie/apollo-11-earth.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+  <!-- Landscape -->
   <wallpaper deleted="false">
     <name>Lake Sherburne</name>
     <filename>@prefix@/share/backgrounds/budgie/lake-sherburne.jpg</filename>
@@ -17,30 +10,8 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
-  <wallpaper deleted="false">
-    <name>Saturnian Profile</name>
-    <filename>@prefix@/share/backgrounds/budgie/saturnian-profile.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>UFO Galaxy</name>
-    <filename>@prefix@/share/backgrounds/budgie/ufo-galaxy.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Beacon Street Sunset</name>
-    <filename>@prefix@/share/backgrounds/budgie/beacon-street-sunset.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
+
+  <!-- Animals -->
   <wallpaper deleted="false">
     <name>Perched Osprey</name>
     <filename>@prefix@/share/backgrounds/budgie/perched-osprey.jpg</filename>
@@ -65,6 +36,44 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+
+  <!-- Architecture -->
+  <wallpaper deleted="false">
+    <name>Beacon Street Sunset</name>
+    <filename>@prefix@/share/backgrounds/budgie/beacon-street-sunset.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+
+  <!-- Space -->
+  <wallpaper deleted="false">
+    <name>Earth from Apollo 11</name>
+    <filename>@prefix@/share/backgrounds/budgie/apollo-11-earth.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Saturnian Profile</name>
+    <filename>@prefix@/share/backgrounds/budgie/saturnian-profile.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>UFO Galaxy</name>
+    <filename>@prefix@/share/backgrounds/budgie/ufo-galaxy.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+
+  <!-- Abstract -->
   <wallpaper deleted="false">
     <name>Abstract Spiral</name>
     <filename>@prefix@/share/backgrounds/budgie/abstract-spiral.jpg</filename>
