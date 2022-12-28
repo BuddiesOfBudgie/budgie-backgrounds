@@ -10,6 +10,14 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>Tunnel in Zion National Park</name>
+    <filename>@prefix@/share/backgrounds/budgie/tunnel-zion-park.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
 
   <!-- Animals -->
   <wallpaper deleted="false">
