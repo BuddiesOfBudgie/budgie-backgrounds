@@ -36,6 +36,14 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>A Kitten On The Lawn</name>
+    <filename>@prefix@/share/backgrounds/budgie/kitten-on-lawn.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
 
   <!-- Architecture -->
   <wallpaper deleted="false">
