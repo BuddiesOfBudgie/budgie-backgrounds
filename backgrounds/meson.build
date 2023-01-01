@@ -9,6 +9,7 @@ backgrounds = [
     'oakland-zoo-otters.jpg',
     'abstract-spiral.jpg',
     'kitten-on-lawn.jpg',
+    'accelerated-green.jpg',
     'roman-colosseum.jpg',
 ]
 
