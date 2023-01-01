@@ -62,6 +62,14 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>Piazza Gae Aulenti</name>
+    <filename>@prefix@/share/backgrounds/budgie/piazza-gae-aulenti.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
 
   <!-- Space -->
   <wallpaper deleted="false">
