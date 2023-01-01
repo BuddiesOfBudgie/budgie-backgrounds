@@ -55,6 +55,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Roman Colosseum</name>
+    <filename>@prefix@/share/backgrounds/budgie/roman-colosseum.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Piazza Gae Aulenti</name>
     <filename>@prefix@/share/backgrounds/budgie/piazza-gae-aulenti.jpg</filename>
     <options>zoom</options>
@@ -93,6 +101,14 @@
   <wallpaper deleted="false">
     <name>Abstract Spiral</name>
     <filename>@prefix@/share/backgrounds/budgie/abstract-spiral.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Accelerated Green</name>
+    <filename>@prefix@/share/backgrounds/budgie/accelerated-green.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
