@@ -10,6 +10,14 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cave Opening</name>
+    <filename>@prefix@/share/backgrounds/budgie/cave-opening.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
 
   <!-- Animals -->
   <wallpaper deleted="false">
