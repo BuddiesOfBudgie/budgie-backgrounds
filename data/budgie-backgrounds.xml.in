@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
-  <!-- Landscape -->
   <wallpaper deleted="false">
     <name>Lake Sherburne</name>
     <filename>@prefix@/share/backgrounds/budgie/lake-sherburne.jpg</filename>
@@ -18,8 +17,6 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
-
-  <!-- Animals -->
   <wallpaper deleted="false">
     <name>Perched Osprey</name>
     <filename>@prefix@/share/backgrounds/budgie/perched-osprey.jpg</filename>
@@ -52,8 +49,6 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
-
-  <!-- Architecture -->
   <wallpaper deleted="false">
     <name>Beacon Street Sunset</name>
     <filename>@prefix@/share/backgrounds/budgie/beacon-street-sunset.jpg</filename>
@@ -86,8 +81,6 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
-
-  <!-- Space -->
   <wallpaper deleted="false">
     <name>Earth from Apollo 11</name>
     <filename>@prefix@/share/backgrounds/budgie/apollo-11-earth.jpg</filename>
@@ -112,8 +105,6 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
-
-  <!-- Abstract -->
   <wallpaper deleted="false">
     <name>Abstract Spiral</name>
     <filename>@prefix@/share/backgrounds/budgie/abstract-spiral.jpg</filename>
@@ -125,6 +116,54 @@
   <wallpaper deleted="false">
     <name>Accelerated Green</name>
     <filename>@prefix@/share/backgrounds/budgie/accelerated-green.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Geo Forest</name>
+    <filename>@prefix@/share/backgrounds/budgie/geo-forest.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Geo Forest</name>
+    <filename>@prefix@/share/backgrounds/budgie/geo-forest.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Valley Coral</name>
+    <filename>@prefix@/share/backgrounds/budgie/valley-coral.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Valley Midnight</name>
+    <filename>@prefix@/share/backgrounds/budgie/valley-midnight.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Waves Midnight</name>
+    <filename>@prefix@/share/backgrounds/budgie/waves-midnight.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Waves Slate</name>
+    <filename>@prefix@/share/backgrounds/budgie/waves-slate.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
