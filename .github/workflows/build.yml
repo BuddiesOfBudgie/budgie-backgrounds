@@ -2,10 +2,10 @@ name: Build on Ubuntu 22.04
 on:
   push:
     branches:
-    - master
+    - main
   pull_request:
     branches:
-    - master
+    - main
 jobs:
   ubuntu:
     runs-on: ubuntu-22.04
