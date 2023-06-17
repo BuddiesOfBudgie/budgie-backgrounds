@@ -19,6 +19,7 @@ backgrounds = [
     'valley-midnight.jpg',
     'waves-midnight.jpg',
     'waves-slate.jpg',
+    'solaris-grapes.jpg',
     'blue-periwinkle.jpg',
 ]
 
