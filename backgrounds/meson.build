@@ -21,6 +21,7 @@ backgrounds = [
     'waves-slate.jpg',
     'solaris-grapes.jpg',
     'blue-periwinkle.jpg',
+    'ocean-waves.jpg',
 ]
 
 backgrounds_dir = join_paths(path_datadir, 'backgrounds', 'budgie')
