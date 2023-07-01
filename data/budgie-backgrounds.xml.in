@@ -186,6 +186,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Dragonfly on Lavender</name>
+    <filename>@prefix@/share/backgrounds/budgie/dragonfly-on-lavender.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Extreme Desert Hike</name>
     <filename>@prefix@/share/backgrounds/budgie/extreme-desert-hike.jpg</filename>
     <options>zoom</options>
@@ -194,7 +202,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Casa Milá</name>
+    <name>Casa Mila</name>
     <filename>@prefix@/share/backgrounds/budgie/casa-mila.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>

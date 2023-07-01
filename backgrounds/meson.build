@@ -21,6 +21,7 @@ backgrounds = [
     'waves-slate.jpg',
     'solaris-grapes.jpg',
     'blue-periwinkle.jpg',
+    'dragonfly-on-lavender.jpg',
     'extreme-desert-hike.jpg',
     'casa-mila.jpg',
     'ocean-waves.jpg',
