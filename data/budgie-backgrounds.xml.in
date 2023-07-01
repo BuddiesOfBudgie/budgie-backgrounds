@@ -121,7 +121,6 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
-<<<<<<< HEAD
   <wallpaper deleted="false">
     <name>Geo Forest</name>
     <filename>@prefix@/share/backgrounds/budgie/geo-forest.jpg</filename>
@@ -171,6 +170,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Solaris Grapes</name>
+    <filename>@prefix@/share/backgrounds/budgie/solaris-grapes.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Blue Periwinkle</name>
     <filename>@prefix@/share/backgrounds/budgie/blue-periwinkle.jpg</filename>
     <options>zoom</options>
@@ -181,6 +188,14 @@
   <wallpaper deleted="false">
     <name>Motherboard Circuits</name>
     <filename>@prefix@/share/backgrounds/budgie/motherboard-circuits.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Singaporean Cityscape</name>
+    <filename>@prefix@/share/backgrounds/budgie/singaporean-cityscape.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>

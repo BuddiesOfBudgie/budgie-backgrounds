@@ -19,8 +19,10 @@ backgrounds = [
     'valley-midnight.jpg',
     'waves-midnight.jpg',
     'waves-slate.jpg',
+    'solaris-grapes.jpg',
     'blue-periwinkle.jpg',
     'motherboard-circuits.jpg',
+    'singaporean-cityscape.jpg',
 ]
 
 backgrounds_dir = join_paths(path_datadir, 'backgrounds', 'budgie')
