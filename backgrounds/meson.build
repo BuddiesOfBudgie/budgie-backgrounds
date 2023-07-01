@@ -21,6 +21,7 @@ backgrounds = [
     'waves-slate.jpg',
     'solaris-grapes.jpg',
     'blue-periwinkle.jpg',
+    'motherboard-circuits.jpg',
     'singaporean-cityscape.jpg',
 ]
 
