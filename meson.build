@@ -1,7 +1,7 @@
 project(
     'budgie-backgrounds',
     ['c'],
-    version: '1.0',
+    version: '2.0',
     license: 'CC0-1.0',
 )
 
