@@ -42,14 +42,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>A Kitten On The Lawn</name>
-    <filename>@prefix@/share/backgrounds/budgie/kitten-on-lawn.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>Beacon Street Sunset</name>
     <filename>@prefix@/share/backgrounds/budgie/beacon-street-sunset.jpg</filename>
     <options>zoom</options>
@@ -82,64 +74,8 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Earth from Apollo 11</name>
-    <filename>@prefix@/share/backgrounds/budgie/apollo-11-earth.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Saturnian Profile</name>
-    <filename>@prefix@/share/backgrounds/budgie/saturnian-profile.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>UFO Galaxy</name>
-    <filename>@prefix@/share/backgrounds/budgie/ufo-galaxy.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>Abstract Spiral</name>
     <filename>@prefix@/share/backgrounds/budgie/abstract-spiral.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Accelerated Green</name>
-    <filename>@prefix@/share/backgrounds/budgie/accelerated-green.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Geo Forest</name>
-    <filename>@prefix@/share/backgrounds/budgie/geo-forest.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Geo Forest</name>
-    <filename>@prefix@/share/backgrounds/budgie/geo-forest.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Valley Coral</name>
-    <filename>@prefix@/share/backgrounds/budgie/valley-coral.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -162,32 +98,8 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Waves Slate</name>
-    <filename>@prefix@/share/backgrounds/budgie/waves-slate.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Solaris Grapes</name>
-    <filename>@prefix@/share/backgrounds/budgie/solaris-grapes.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>Blue Periwinkle</name>
     <filename>@prefix@/share/backgrounds/budgie/blue-periwinkle.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Dragonfly on Lavender</name>
-    <filename>@prefix@/share/backgrounds/budgie/dragonfly-on-lavender.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -218,24 +130,8 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Motherboard Circuits</name>
-    <filename>@prefix@/share/backgrounds/budgie/motherboard-circuits.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>Singaporean Cityscape</name>
     <filename>@prefix@/share/backgrounds/budgie/singaporean-cityscape.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Orange Hallway</name>
-    <filename>@prefix@/share/backgrounds/budgie/orange-hallway.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
