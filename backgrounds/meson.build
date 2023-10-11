@@ -28,6 +28,7 @@ backgrounds = [
     'motherboard-circuits.jpg',
     'singaporean-cityscape.jpg',
     'orange-hallway.jpg',
+    'serene.jpg',
 ]
 
 backgrounds_dir = join_paths(path_datadir, 'backgrounds', 'budgie')
