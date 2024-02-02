@@ -12,6 +12,7 @@ backgrounds = [
     'perched-osprey.jpg',
     'piazza-gae-aulenti.jpg',
     'roman-colosseum.jpg',
+    'saturnian-profile.jpg',
     'singaporean-cityscape.jpg',
     'tea-gardens.jpg',
     'valley-midnight.jpg',
