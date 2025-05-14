@@ -1,4 +1,4 @@
-name: Build on Ubuntu 22.04
+name: Build on Linux
 on:
   push:
     branches:
@@ -7,11 +7,20 @@ on:
     branches:
     - main
 jobs:
-  ubuntu:
-    runs-on: ubuntu-22.04
+  fedora:
+    runs-on: ubuntu-latest
+    container: "registry.fedoraproject.org/fedora:rawhide"
     steps:
-    - uses: actions/checkout@v1
-    - run: sudo apt update
-    - run: sudo apt install meson ninja-build imagemagick jhead
-    - run: meson build
-    - run: meson compile -C build
+      - name: Install prerequisites
+        run: |
+          dnf install --assumeyes \
+            gcc \
+            git \
+            meson \
+            ImageMagick \
+            jhead
+      - uses: actions/checkout@v3
+      - name: Build Budgie Backgrounds
+        run: |
+          meson build
+          meson compile -C build
