@@ -23,7 +23,6 @@ backgrounds = [
 backgrounds_dir = join_paths(path_datadir, 'backgrounds', 'budgie')
 
 mogrify = find_program('mogrify')
-jhead = find_program('jhead')
 
 script = find_program(join_paths(meson.source_root(), 'scripts', 'optimizeImage.sh'))
 
