@@ -17,8 +17,7 @@ jobs:
             gcc \
             git \
             meson \
-            ImageMagick \
-            jhead
+            ImageMagick
       - uses: actions/checkout@v3
       - name: Build Budgie Backgrounds
         run: |
