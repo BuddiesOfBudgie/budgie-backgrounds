@@ -15,6 +15,7 @@ Below is a list of requirements that submissions must satisfy before they are re
 
 - Must be licensed under CC0 or Public Domain. Specify which license the artwork is under.
 - Image must be 3840x2160 or higher.
+- Image must be in the JPEG format; other formats may be considered in the future.
 - If you are not the original author, you must provide the source: URL to the webpage hosting the image, direct download (if possible) to the image, name of author.
 - No brand names, trademarks, or logos.
 - No branding assets should be used as it should be assumed these works will be used across many installations of Budgie Desktop, regardless of the operating system.
