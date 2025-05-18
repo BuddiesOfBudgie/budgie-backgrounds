@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Lake Sherburne</name>
-    <filename>@prefix@/share/backgrounds/budgie/lake-sherburne.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/lake-sherburne.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -11,7 +11,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Amidst the Tea Gardens</name>
-    <filename>@prefix@/share/backgrounds/budgie/tea-gardens.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/tea-gardens.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -19,7 +19,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Perched Osprey</name>
-    <filename>@prefix@/share/backgrounds/budgie/perched-osprey.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/perched-osprey.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -27,7 +27,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Canyon Wren</name>
-    <filename>@prefix@/share/backgrounds/budgie/canyon-wren.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/canyon-wren.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -35,7 +35,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Oakland Zoo Otters</name>
-    <filename>@prefix@/share/backgrounds/budgie/oakland-zoo-otters.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/oakland-zoo-otters.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -43,7 +43,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Beacon Street Sunset</name>
-    <filename>@prefix@/share/backgrounds/budgie/beacon-street-sunset.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/beacon-street-sunset.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -51,7 +51,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Roman Colosseum</name>
-    <filename>@prefix@/share/backgrounds/budgie/roman-colosseum.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/roman-colosseum.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -59,7 +59,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Piazza Gae Aulenti</name>
-    <filename>@prefix@/share/backgrounds/budgie/piazza-gae-aulenti.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/piazza-gae-aulenti.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -67,7 +67,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>High Trestle Trail</name>
-    <filename>@prefix@/share/backgrounds/budgie/high-trestle-trail.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/high-trestle-trail.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -75,7 +75,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Saturnian Profile</name>
-    <filename>@prefix@/share/backgrounds/budgie/saturnian-profile.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/saturnian-profile.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -83,7 +83,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Abstract Spiral</name>
-    <filename>@prefix@/share/backgrounds/budgie/abstract-spiral.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/abstract-spiral.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -91,7 +91,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Valley Midnight</name>
-    <filename>@prefix@/share/backgrounds/budgie/valley-midnight.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/valley-midnight.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -99,7 +99,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Waves Midnight</name>
-    <filename>@prefix@/share/backgrounds/budgie/waves-midnight.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/waves-midnight.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -107,7 +107,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Blue Periwinkle</name>
-    <filename>@prefix@/share/backgrounds/budgie/blue-periwinkle.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/blue-periwinkle.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -115,7 +115,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Extreme Desert Hike</name>
-    <filename>@prefix@/share/backgrounds/budgie/extreme-desert-hike.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/extreme-desert-hike.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -123,7 +123,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Casa Mila</name>
-    <filename>@prefix@/share/backgrounds/budgie/casa-mila.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/casa-mila.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -131,7 +131,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Ocean Waves</name>
-    <filename>@prefix@/share/backgrounds/budgie/ocean-waves.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/ocean-waves.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -139,7 +139,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Singaporean Cityscape</name>
-    <filename>@prefix@/share/backgrounds/budgie/singaporean-cityscape.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/singaporean-cityscape.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -147,7 +147,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>The Spices of Life</name>
-    <filename>@prefix@/share/backgrounds/budgie/the-spices-of-life.jpg</filename>
+    <filename>@prefix@/share/backgrounds/budgie/the-spices-of-life.jxl</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
