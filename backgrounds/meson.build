@@ -34,7 +34,12 @@ foreach background : backgrounds
     optimized_background_targets += custom_target(background,
         input: background,
         output: '@BASENAME@.jxl',
-        command: [script, '@INPUT@', '@OUTPUT@'],
+        command: [
+            script,
+            optimizer_backend,
+            '@INPUT@',
+            '@OUTPUT@'
+        ],
         install: true,
         install_dir: backgrounds_dir
     )
