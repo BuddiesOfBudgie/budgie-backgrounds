@@ -1,0 +1,6 @@
+option('image_optimizer',
+  type: 'combo',
+  choices: ['cjxl', 'mogrify'],
+  value: 'mogrify',
+  description: 'Image processing backend to use for JXL conversion'
+)
