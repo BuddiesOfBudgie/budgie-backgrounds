@@ -25,7 +25,12 @@ backgrounds = [
 
 backgrounds_dir = join_paths(path_datadir, 'backgrounds', 'budgie')
 
-mogrify = find_program('mogrify')
+if optimizer_backend == 'cjxl'
+    find_program('magick')
+    find_program('cjxl')
+else
+    find_program('mogrify')
+endif
 
 script = find_program(join_paths(meson.source_root(), 'scripts', 'optimizeImage.sh'))
 
