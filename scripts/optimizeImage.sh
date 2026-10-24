@@ -17,8 +17,6 @@ if [ "$BACKEND" = "cjxl" ]; then
     # -j 0 = allow lossless jpeg
     cjxl "$TMP_JPG" "$OUTPUT" -j 0 -d 1.0 -e 7 || exit 2
 else
-    # use mogrify (assuming mogify has been built with JXL support)
-    cp "$INPUT" "$OUTPUT" || exit 1
-    mogrify -format jxl -strip "$OUTPUT" || exit 2
-    mogrify -resize 3840x2160^ "$OUTPUT" || exit 3
+    # use mogrify (assuming mogrify has been built with JXL support)
+    mogrify -path "$(dirname "$OUTPUT")" -format jxl -strip -resize "3840x2160^" "$INPUT" || exit 1
 fi
