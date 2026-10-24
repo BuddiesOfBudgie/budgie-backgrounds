@@ -32,7 +32,7 @@ else
     find_program('mogrify')
 endif
 
-script = find_program(join_paths(meson.source_root(), 'scripts', 'optimizeImage.sh'))
+script = find_program(join_paths(meson.project_source_root(), 'scripts', 'optimizeImage.sh'))
 
 optimized_background_targets = []
 foreach background : backgrounds
